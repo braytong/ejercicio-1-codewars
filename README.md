@@ -10,3 +10,8 @@ What ways of achieving this do you know?
 999  --> "999"
 -100 --> "-100"
 ```
+### Solution
+```python
+def number_to_string(num):
+    return str(num)
+```
